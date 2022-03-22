@@ -1,0 +1,2 @@
+# CryptoMarketDataCollector
+2021
